@@ -18,11 +18,6 @@ function Rating() {
   );
 }
 
-function hello() {
-  alert("hello");
-}
-hello();
-
 function Accordion() {
   return (
     <div>
